@@ -15,7 +15,7 @@ import requests
 from tqdm import tqdm
 import urllib.request
 
-Entrez.email = "recepcanaltinbag@gmail.com"
+Entrez.email = "lalala@gmail.com"
 
 
 class DownloadProgressBar(tqdm):
